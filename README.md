@@ -22,6 +22,9 @@ My Gulp boilerplate
 
 * npm i -D  @babel-core @babel/preset-env
 
+## Commands :
+* gulp dev (development mode)
+* gulp build (production mode)
 ### Feel free to use :)
 
 
