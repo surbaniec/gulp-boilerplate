@@ -1,7 +1,7 @@
 # gulp-boilerplate
 My Gulp boilerplate 
 
-##Plugins:
+## Plugins:
 - browser-sync
 - gulp-babel
 - @babel-core
