@@ -1,5 +1,5 @@
 # gulp-boilerplate
-My Gulp boilerplate 
+My Gulp boilerplate. Map the strucutre of the project, install required packages and simply run commands.
 
 ## Plugins:
 - browser-sync
