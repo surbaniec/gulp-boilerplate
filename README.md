@@ -20,7 +20,7 @@ My Gulp boilerplate. Map the strucutre of the project, install required packages
 
 * npm i -D gulp browser-sync gulp-babel gulp-concat gulp-uglify gulp-rename del gulp-postcss postcss gulp-sass autoprefixer cssnano
 
-* npm i -D  @babel-core @babel/preset-env
+* npm i -D  @babel/core @babel/preset-env
 
 ## Commands :
 * gulp dev (development mode)
